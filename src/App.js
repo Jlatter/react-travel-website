@@ -13,7 +13,7 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path="/react-travel-website/" exact Component={Home}></Route>
+          <Route path="/react-travel-website" exact Component={Home}></Route>
           <Route
             path="/react-travel-website/about"
             exact

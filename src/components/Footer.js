@@ -28,34 +28,34 @@ function Footer() {
           <div className="footer-link-items">
             <h2>My Account</h2>
             <Link to="/react-travel-website/sign-up">How it works</Link>
-            <Link to="/react-travel-website/">Testimonials</Link>
-            <Link to="/react-travel-website/">Careers</Link>
-            <Link to="/react-travel-website/">Investors</Link>
-            <Link to="/react-travel-website/">Terms of Service</Link>
+            <Link to="/react-travel-website">Testimonials</Link>
+            <Link to="/react-travel-website">Careers</Link>
+            <Link to="/react-travel-website">Investors</Link>
+            <Link to="/react-travel-website">Terms of Service</Link>
           </div>
           <div className="footer-link-items">
             <h2>About</h2>
             <Link to="/react-travel-website/sign-up">How it works</Link>
-            <Link to="/react-travel-website/">Testimonials</Link>
-            <Link to="/react-travel-website/">Careers</Link>
-            <Link to="/react-travel-website/">Investors</Link>
-            <Link to="/react-travel-website/">Terms of Service</Link>
+            <Link to="/react-travel-website">Testimonials</Link>
+            <Link to="/react-travel-website">Careers</Link>
+            <Link to="/react-travel-website">Investors</Link>
+            <Link to="/react-travel-website">Terms of Service</Link>
           </div>
           <div className="footer-link-items">
             <h2>Contact</h2>
             <Link to="/react-travel-website/sign-up">How it works</Link>
-            <Link to="/react-travel-website/">Testimonials</Link>
-            <Link to="/react-travel-website/">Careers</Link>
-            <Link to="/react-travel-website/">Investors</Link>
-            <Link to="/react-travel-website/">Terms of Service</Link>
+            <Link to="/react-travel-website">Testimonials</Link>
+            <Link to="/react-travel-website">Careers</Link>
+            <Link to="/react-travel-website">Investors</Link>
+            <Link to="/react-travel-website">Terms of Service</Link>
           </div>
           <div className="footer-link-items">
             <h2>Careers</h2>
             <Link to="/react-travel-website/sign-up">How it works</Link>
-            <Link to="/react-travel-website/">Testimonials</Link>
-            <Link to="/react-travel-website/">Careers</Link>
-            <Link to="/react-travel-website/">Investors</Link>
-            <Link to="/react-travel-website/">Terms of Service</Link>
+            <Link to="/react-travel-website">Testimonials</Link>
+            <Link to="/react-travel-website">Careers</Link>
+            <Link to="/react-travel-website">Investors</Link>
+            <Link to="/react-travel-website">Terms of Service</Link>
           </div>
         </div>
       </div>
