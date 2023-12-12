@@ -13,10 +13,22 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path="/" exact Component={Home}></Route>
-          <Route path="/about" exact Component={Services}></Route>
-          <Route path="/contact" exact Component={Products}></Route>
-          <Route path="/sign-up" exact Component={SignUp}></Route>
+          <Route path="/react-travel-website/" exact Component={Home}></Route>
+          <Route
+            path="/react-travel-website/about"
+            exact
+            Component={Services}
+          ></Route>
+          <Route
+            path="/react-travel-website/contact"
+            exact
+            Component={Products}
+          ></Route>
+          <Route
+            path="/react-travel-website/sign-up"
+            exact
+            Component={SignUp}
+          ></Route>
         </Routes>
       </Router>
     </>

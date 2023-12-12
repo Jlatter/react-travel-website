@@ -13,31 +13,31 @@ function Cards() {
               src="images/img-8.jpg"
               text="Explore the EPIC jungle"
               label="Adventure"
-              path="/about"
+              path="react-travel-website/about"
             />
             <CardItem
               src="images/img-2.jpg"
               text="See the SEA!"
               label="Marine"
-              path="/about"
+              path="react-travel-website/about"
             />
             <CardItem
               src="images/img-5.jpg"
               text="The forest"
               label="Nature"
-              path="/about"
+              path="react-travel-website/about"
             />
             <CardItem
               src="images/img-6.jpg"
               text="The forest"
               label="Nature"
-              path="/about"
+              path="react-travel-website/about"
             />
             <CardItem
               src="images/img-7.jpg"
               text="The forest"
               label="Nature"
-              path="/about"
+              path="react-travel-website/about"
             />
           </ul>
         </div>
